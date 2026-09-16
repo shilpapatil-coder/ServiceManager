@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ServiceManager.Api/ServiceManager.Api.csproj" />
+  <Project Path="ServiceManager.Core/ServiceManager.Core.csproj" />
+  <Project Path="ServiceManager.Infrastructure/ServiceManager.Infrastructure.csproj" />
+</Solution>
